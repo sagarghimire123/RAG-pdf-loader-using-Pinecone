@@ -1,9 +1,9 @@
 # RAG PDF Loader
-This project implements a Retrieval-Augmented Generation (RAG) system that loads and processes PDF documents. It utilizes several powerful libraries to create an interactive application for querying content from PDFs and generating contextual responses.
+This project implements a Retrieval-Augmented Generation (RAG) system that loads and processes PDF documents. It utilizes several powerful libraries to create an interactive application for querying content from PDFs and generating contextual responses. 
 
 # Features
 
-Upload and process PDF files.
+Upload and process PDF files.(ex--resume, biodata, story, peom....)
 
 Extract text and metadata using PyPDF2.
 
